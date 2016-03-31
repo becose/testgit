@@ -10,7 +10,7 @@ package testgit;
  * @author tommybennett
  */
 public class testC {
-    String myname = "Tommy";
+    String myname = "Tommy E. Bennett";
     int myage = 47;
     double mysalary = 75000.00;
     
