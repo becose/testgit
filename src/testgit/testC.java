@@ -13,7 +13,11 @@ public class testC {
     String myname = "Tommy E. Bennett";
     int myage = 47;
     double mysalary = 75000.00;
+    int myid = 1;
     
+    public int getID(){
+        return myid;
+    }
     public String getName(){
         return myname;
     }
